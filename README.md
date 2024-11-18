@@ -1,3 +1,10 @@
+# NotpixelTiTAN
+
+AUTO CLAIM FOR Notpixel/ @Notpixel
+
+[![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Crypto_Titan0)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CryptoTitan0)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Crypto_Titan0)
 ## Table of Contents
 - [Recommendation before use](#recommendation-before-use)
 - [Features](#features)
@@ -13,7 +20,7 @@
 > ⚠️ I do my best to avoid detection of bots, but using bots is forbidden in all airdrops. i cannot guarantee that you will not be detected as a bot. Use at your own risk. I am not responsible for any consequences of using this software.
 
 
-# Join the bot [here](https://t.me/notpixel/app?startapp=f6624523270)
+# Click the following link to register: [https://t.me/NotpixelCryptoBot/](https://t.me/notpixel/app?startapp=f1630790742_s577266)
 
 
 # 🔥🔥 Use PYTHON 3.10 - 3.11.5 🔥🔥
@@ -69,10 +76,10 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/vanhbakaa/Notpixel-bot) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/CryptoTitan0/NotpixelTitan) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/vanhbakaa/Notpixel-bot.git
-cd Notpixel-bot
+git clone https://github.com/CryptoTitan0/NotpixelTitan.git
+cd NotpixelTitan
 ```
 
 Then you can do automatic installation by typing:
@@ -99,9 +106,9 @@ python3 main.py
 
 You can also use arguments for quick start, for example:
 ```shell
-~/Notpixel-bot >>> python3 main.py --action (1/2)
+~/NotpixelTitan >>> python3 main.py --action (1/2)
 # Or
-~/Notpixel-bot >>> python3 main.py -a (1/2)
+~/NotpixelTitan >>> python3 main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session
@@ -118,9 +125,9 @@ python main.py
 ```
 You can also use arguments for quick start, for example:
 ```shell
-~/Notpixel-bot >>> python3 main.py --action (1/2)
+~/NotpixelTitan >>> python3 main.py --action (1/2)
 # Or
-~/Notpixel-bot >>> python3 main.py -a (1/2)
+~/NotpixelTitan >>> python3 main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session
@@ -130,8 +137,8 @@ You can also use arguments for quick start, for example:
 ```
 > pkg update && pkg upgrade -y
 > pkg install python rust git -y
-> git clone https://github.com/vanhbakaa/Notpixel-bot.git
-> cd Notpixel-bot
+> git clone https://github.com/CryptoTitan0/NotpixelTitan.git
+> cd NotpixelTitan
 > cp .env-example .env
 > nano .env
 # edit your api_id and api_hash
@@ -141,9 +148,9 @@ You can also use arguments for quick start, for example:
 
 You can also use arguments for quick start, for example:
 ```termux
-~/Notpixel-bot > python main.py --action (1/2)
+~/NotpixelTitan > python main.py --action (1/2)
 # Or
-~/Notpixel-bot > python main.py -a (1/2)
+~/NotpixelTitan > python main.py -a (1/2)
 
 # 1 - Run clicker
 # 2 - Creates a session 
@@ -164,7 +171,7 @@ node index.js #Then /start the bot created in @botfather
 
 If you'd like to support the development of this project, please consider making a donation. Every little bit helps!
 
-👉 **[Click here to view donation options](https://github.com/vanhbakaa/Donation/blob/main/README.md)** 👈
+👉 **[Click here to view donation options](https://github.com/CryptoTitan0/NotpixelTitan/README.md)** 👈
 
 Your support allows us to keep improving the project and bring more features!
 
@@ -172,4 +179,4 @@ Thank you for your generosity! 🙌
 
 ### Contacts
 
-For support or questions, you can contact me [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/airdrop_tool_vanh)
+For support or questions, you can contact me [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/CryptoTitanchat)
